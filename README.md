@@ -13,7 +13,7 @@ I'm fullstack developer
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%2010%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
-<h3 align="center">Hey there, I'm <a href="(https://github.com/Tur-Ovhir)">bTur-Ochir</a></h3>
+<h3 align="center">Hey there, I'm <a href="(https://github.com/Tur-Ovhir)">Tur-Ochir</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
@@ -28,13 +28,13 @@ I'm fullstack developer
 
  ### Skills
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,nextjs,dotnet,css,html,js,ts,cs,tailwind,express,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/Tur-Ovhir"><img src="https://skillicons.dev/icons?i=vscode,github,nextjs,dotnet,css,html,js,ts,cs,tailwind,express,nodejs"> </a> </p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/benordb"><img src="https://github-readme-stats.vercel.app/api?username=benordb&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="benordb's GitHub stats" /></a>
+<a href="http://www.github.com/Tur-Ovhir"><img src="https://github-readme-stats.vercel.app/api?username=Turuu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Turuu's GitHub stats" /></a>
 
 ### Support Me
 
@@ -43,3 +43,4 @@ I'm fullstack developer
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/benordb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
+
